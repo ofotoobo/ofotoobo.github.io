@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofotoobo.github.io/cZu/sitemap_index.txt
+Sitemap: https://ofotoobo.github.io/cwd/sitemap_index.txt
+Sitemap: https://ofotoobo.github.io/syi/sitemap_index.txt
+Sitemap: https://ofotoobo.github.io/xKw/sitemap_index.txt
